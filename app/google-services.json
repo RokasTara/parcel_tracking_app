@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "401604705020",
+    "firebase_url": "https://parcel-tracer-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "parcel-tracer",
+    "storage_bucket": "parcel-tracer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401604705020:android:221d7d3c939f3b5295b579",
+        "android_client_info": {
+          "package_name": "com.example.pts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401604705020-4f48a5io25pedgjfg9946shu985qsrdr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx1TZqcBebJy0_yo7DAI8q37Xw6mRHBko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401604705020-4f48a5io25pedgjfg9946shu985qsrdr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
